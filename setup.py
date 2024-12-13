@@ -13,7 +13,7 @@ install_requires=['scipy==1.2.0',
 'scikit-image==0.14.2',
 'tqdm==4.31.0',
 'imageio==2.5.0',
-'requests==2.21.0'
+'requests==2.32.2'
 ],
 version='0.4.0',
 description='AutoML for deep learning',
